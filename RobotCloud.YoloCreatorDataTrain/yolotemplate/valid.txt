@@ -1,0 +1,13 @@
+C:/robot/Yolo_mark/x64/Release/koface/valid/1 (11).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/1 (12).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/1 (13).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/1 (14).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/1 (15).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/1 (16).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/2 (11).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/2 (12).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/2 (13).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/2 (14).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/2 (15).jpg
+C:/robot/Yolo_mark/x64/Release/koface/valid/2 (16).jpg
+

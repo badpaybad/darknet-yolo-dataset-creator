@@ -1,0 +1,1 @@
+C:\robot\yolo-dataset-creator\RobotCloud.YoloCreatorDataTrain\bin\Debug\yolodataset\du.jpg

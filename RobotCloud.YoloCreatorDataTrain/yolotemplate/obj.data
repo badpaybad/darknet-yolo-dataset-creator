@@ -1,0 +1,5 @@
+classes= 3
+train= C:/robot/Yolo_mark/x64/Release/koface/train.txt
+valid= C:/robot/Yolo_mark/x64/Release/koface/train.txt
+names= C:/robot/Yolo_mark/x64/Release/koface/obj.names		
+backup= C:/robot/Yolo_mark/x64/Release/koface/backup
